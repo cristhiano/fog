@@ -1,5 +1,5 @@
 require 'fog/core/collection'
-require 'fog/digitalocean/models/compute/region'
+require 'fog/digitalocean/models/compute_v2/region'
 
 module Fog
   module Compute
